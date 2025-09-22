@@ -33,7 +33,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ## License
 
-Copyright **yyyy** **Jaspal Singh Kahlon**
+Copyright **2025** **Jaspal Singh Kahlon**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
