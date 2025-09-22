@@ -1,13 +1,8 @@
-# android-kotlin-debugging
-should now be more familiar with the Kotlin programming language and its syntax
-
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: **Jaspal Singh Kahlon**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Summary
 
@@ -28,13 +23,6 @@ The following REQUIRED features are completed:
 - [x] 🗒️ Debug and fix Print List activity
 - [x] 💯 Debug and fix Favorite Number activity
 
-The following STRETCH features are implemented:
-
-- [ ] TODO
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -42,20 +30,10 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![And101](https://github.com/user-attachments/assets/09483f11-2cec-49cb-a94c-ca920559b457)
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **yyyy** **Jaspal Singh Kahlon**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
